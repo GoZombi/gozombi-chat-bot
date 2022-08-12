@@ -1,0 +1,10 @@
+{
+  "Telegram": {
+    "BotToken": "Bot token here"
+  },
+  "Server": {
+    "IP": "45.136.205.33",
+    "PORT": "27091",
+    "ExceptName": "GoZombi 2014 gozombi.site"
+  }
+}
